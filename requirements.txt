@@ -1,0 +1,14 @@
+numpy
+opencv-python
+opencv-contrib-python
+scipy==1.4.1
+Pillow
+cython
+matplotlib
+scikit-image==0.16.2
+tensorflow==2.3.0
+h5py
+imgaug
+IPython[all]
+imutil
+sklearn
